@@ -13,3 +13,7 @@ newB=addButton(b);
 
 newB.classList.toggle(`testB`);
 
+function signOfLife(){
+    alert('hello!');
+}
+newB.addEventListener(`click`,signOfLife);
