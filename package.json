@@ -1,0 +1,22 @@
+{
+  "name": "myfirstrepo",
+  "version": "1.0.0",
+  "description": "First repo",
+  "main": "script.js",
+  "scripts": {
+    "build": "browserify script.js > bundle.js && live-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/123AlexDL/myFirstRepo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/123AlexDL/myFirstRepo/issues"
+  },
+  "homepage": "https://github.com/123AlexDL/myFirstRepo#readme",
+  "dependencies": {
+    "lodash": "^4.17.15"
+  }
+}
