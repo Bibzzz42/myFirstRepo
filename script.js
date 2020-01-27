@@ -1,3 +1,8 @@
+var  _ = require('lodash')
+
+let x=[1,2,3,3,3,3,4];
+console.log(_.without(x,3));
+
 let b=document.querySelector(`body`);
 
 b.classList.add(`container`);
