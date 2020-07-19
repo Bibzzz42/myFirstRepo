@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/123AlexDL/myFirstRepo#readme",
   "dependencies": {
-    "lodash": "^4.17.15"
+    "lodash": "^4.17.19"
   }
 }
